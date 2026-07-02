@@ -1,0 +1,67 @@
+/* typography */
+
+
+small {
+	font-size: 0.9em;
+	line-height: 1.3em;
+	}
+
+small, strike {
+	color: #777;
+	}
+	
+code {
+	font: 0.9em 'Courier New', Courier, Monospace;
+	background: #ffffcc;
+	}
+
+acronym, abbr {
+	color: #00f;
+	cursor: help;
+	}
+
+head:first-child+body blockquote { 
+	color: #000;
+	margin: 20px;
+	padding: 5px 20px 5px 52px;
+	background: #f7f7f7 url(images/blockquote.png) no-repeat;
+	font-family: Georgia, "Times New Roman", Times, Serif; 
+	font-style:italic;
+	text-align:justify;
+	}
+
+* blockquote {
+	color: #000;
+	margin: 20px 0;
+	padding: 0 50px;
+	background: #f7f7f7 url(images/blockquote.png) no-repeat;
+	font-family: Georgia, "Times New Roman", Times, Serif; 
+	font-style:italic;
+	text-align:justify;
+	}
+
+/* special */
+
+.alert {
+	background: #FFF6BF;
+	border-top: 2px solid #FFD324;
+	border-bottom: 2px solid #FFD324;
+	text-align: center;
+	margin: 10px auto;
+	padding: 5px 20px;
+	}
+
+.entry-tags {
+	display: block;
+	}
+
+.entry-tags li {
+	display:inline;
+	}
+
+.vcard {
+	padding: 20px;
+	margin: 5px;
+	background: #f6f6f6;
+	border: 1px solid #666;
+}

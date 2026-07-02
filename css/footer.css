@@ -1,0 +1,64 @@
+/* My footer shenanigans */
+
+#footer { 
+	background: white; 
+	margin: 0 20px; 
+	padding: 0 20px; 
+	position: relative;
+	width: 730px;
+	border-top: 1px dotted #999; 
+	border-bottom: 1px dotted #999; 
+	color: #000;
+	text-align: center; 
+	font-size: 1em;
+	margin: 0;
+	margin-left: 45px;
+	padding: 0;
+	list-style: none;
+	}
+
+#footer a {
+	color: #666;
+	}
+
+#footer small {
+	font-size: 0.9em;
+	}
+#footer small a {
+	font-weight: bold;
+	}
+#footer small a:hover {
+	border: none;
+	text-decoration: none;
+	color: #bbb;
+	}
+#footer ul { 
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	}
+	
+#footer-cell-1 {
+	width: 500px;
+	overflow: hidden; 
+	white-space: nowrap; 
+}
+
+#footer-cell-2 {
+	width: 250px;
+}
+
+#footer-cell-3 {
+	width: 200px;
+}
+
+.legaleeze {
+	margin: 10px;
+	text-align: center;
+	font-size: 0.8em;
+	color: #333;
+	}
+.legaleeze a {
+	color: #000;
+	text-decoration: none;
+	}

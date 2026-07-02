@@ -1,0 +1,30 @@
+/* modules */
+
+.module
+{
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+}
+
+.module-content
+{
+	position: relative;
+	margin: 5px 10px 20px 10px;
+}
+
+.module-list,
+.archive-list
+{ margin: 0; padding: 0; list-style: none; }
+
+.module-list-item
+{ margin-top: 5px; margin-bottom: 5px; list-style: none; }
+
+.feed-item { 
+	margin-left: -40px; 
+	list-style: none; 
+	font-size: 0.9em;
+	line-height: 1.2em;
+	white-space: nowrap; 
+	overflow: hidden;
+	}

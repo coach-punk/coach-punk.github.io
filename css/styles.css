@@ -1,0 +1,261 @@
+@import url(reset.css);
+
+body {
+	font-family:helvetica,"Lucida Grande","Lucida Sans Unicode", verdana, arial, sans-serif;
+	text-align: left;
+	color: #444;
+	background: #fff;
+}
+
+a {
+	color: #000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #4c566c;
+	border-bottom: 1px solid #4c566c;
+}
+
+a img {
+	border: none;
+}
+
+ul {
+	list-style-type: none;
+}
+
+#wrap {
+	position: relative;
+	width: 730px;
+	margin: 0 auto auto 210px;
+	text-align: left;
+}
+
+/* Header */
+
+#header {
+	background: #000;
+	margin:-1.8em 0 1.6em 0;
+	padding: 0;
+	border-bottom: 3px solid #999;
+	text-align: left;
+	height: 30px;
+}
+#header h1 a {
+	color: #444;
+	text-decoration: none;
+	float: left;
+	margin: 40px auto auto 207px;
+	position: absolute;
+}
+#header a span, #header p a {
+	color: #888;
+}
+#header a:hover {
+	border-bottom: 0 solid #ddd;
+}
+#header p {
+	color: #555;
+	margin: -40px auto auto 207px;
+}
+#header h1 {
+	margin-top: 15px;
+	min-height:100px;
+}
+#header img{
+	margin: -65px auto auto -193px;
+	border: none;
+	position: fixed;
+}
+
+/* Banner */
+
+.archive-header-description {
+	color: #777;
+	background: #f6f6f6;
+	margin: 12px 0;
+	padding: 12px;
+	font-style: oblique;
+	border-top: 1px solid #999;
+	border-left: 1px solid #999;
+}
+
+/* Content */
+
+#content {
+	float: left;
+	width: 500px;
+	min-height: 550px;
+	margin:85px 0 0 0;
+	text-align: justify;
+}
+#content p{
+	word-spacing: -0.07em;	
+}
+#content small, #content h3, #content blockquote{
+	word-spacing: normal;	
+}
+#content h2 {
+	font-weight: bold;
+	word-spacing: -0.1em;	
+}
+#content h3 {
+	font-weight: bold;
+	color: #777;
+}
+#content blockquote{
+	color: #777;
+	line-height: 1.5em;
+	border-left: 10px solid #ddd;
+	padding-left: 10px;
+	margin-bottom: 20px;
+}
+
+#content hr{
+	margin: 3.5em 11em 5.4em 11em;
+	border: 1px solid #ccc;
+	height: 0;
+}
+#content dt{
+	position: absolute;
+	float: left;
+	color: #777;
+}
+#content dd a {
+	color: #555;
+	margin-left: 5em;
+}
+#content pre {
+	color: #BE0005;
+}
+#content abbr,acronym {
+	color: #777;
+	border-bottom: 1px dashed #999;
+}
+#content cite {
+	font-weight: bold;
+	font-style: italic;
+}
+
+#content small {
+	color: #777;
+}
+#content ul {
+	list-style: square outside;
+}
+#content ol{
+	list-style: decimal outside;
+}
+
+.content-nav
+{
+	width: 100%;
+	margin: 40px 10px;
+	font-size: 0.9em;
+	text-align: center;
+}
+
+.content-nav .left {
+	float: left;
+	width: 50%;
+	text-align: left;
+}
+
+.content-nav .right {
+	float: right;
+	width: 50%;
+	text-align: right;
+}
+
+/* Sidebar */
+
+#sidebar {
+	position:relative;
+	margin: 85px 0 0 5px;
+	float: right;
+	width: 200px;
+}
+#sidebar img {
+	border: 0;
+}
+#sidebar ul {
+	margin-top: 70px;
+	text-align: left;
+}
+#sidebar ul img {
+	float: right;
+	margin-top: 4px;
+}
+
+/* Footer */
+
+#footer {
+	clear: both;
+	background: #000;
+	margin:1.6em 0 -1.6em 0;
+	padding: 10px 0 0 0;
+	border-top: 3px solid #999;
+	text-align: left;
+	min-height: 120px;
+}
+#footer a {
+	color: #aaa;
+}
+#footer a:hover {
+	color: #777;
+	background: none;
+	border-bottom: 1px solid #777;
+}
+#footer h2{
+	margin-left: 200px;
+	font-size: 1.3em;
+	line-height: 1.3em;
+	margin-bottom: 2em;
+	color:#777;
+}
+#footer p {
+	margin-left:200px;
+	color: #999;
+	margin-bottom: 2em;
+	padding-bottom: 2em;
+}
+#footer img {
+	margin-left:740px;
+	margin-top: -25px;
+	float: left;
+	position: relative;
+}
+/* special */
+
+.alert {
+	background: #FFF6BF;
+	border-top: 2px solid #FFD324;
+	border-bottom: 2px solid #FFD324;
+	text-align: center;
+	margin: 10px auto;
+	padding: 5px 20px;
+	}
+
+.entry-tags {
+	display: block;
+	}
+
+.entry-tags li {
+	display:inline;
+	}
+
+.vcard {
+	padding: 20px;
+	margin: 5px;
+	background: #f6f6f6;
+	border: 1px solid #666;
+}
+#footer .magnolia-linkroll, #footer .bored-links{text-align: justify;line-height: inherit;margin-top: -0.5em;margin-bottom: 2em;margin-left: 200px;width: 500px;display: block;}
+#footer dt a{font-weight: bold;font-size: 1em;line-height: 1.8em;margin: 1.8em 0 1.8em 1em;}
+#footer .magnolia-linkroll a:hover {}
+#footer .magnolia-mark {}
+#footer dd {color: #777;margin: 0;font-size: 1em;line-height: 1.8em;margin-bottom: 1em;}
+#footer .bored-links dd span {padding: -20px; color: #555;font-size: 0.83em;}
+.flickr_badge img {margin: 20px 2px;padding: 20px 2px;}

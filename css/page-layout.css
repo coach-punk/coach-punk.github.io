@@ -1,0 +1,70 @@
+/* page layout */
+
+body { text-align: center; } /* center on ie */
+
+#container
+{
+	position: relative;
+	margin: 0 auto; /* center on everything else */
+	width: 820px;
+	text-align: left;
+}
+#container-inner { position: static; width: auto; }
+
+#banner { position: relative; }
+#banner-inner { position: static; }
+
+#pagebody { position: relative; width: 100%; }
+#pagebody-inner { position: static; width: 100%; }
+
+#alpha, #beta, #gamma, #delta
+{
+	display: inline; /* ie win bugfix */
+	position: relative;
+	float: left;
+	min-height: 1px;
+}
+
+#delta { float: right; }
+
+#alpha-inner, #beta-inner, #gamma-inner, #delta-inner
+{
+	position: static;
+}
+
+.front-page-meta {
+	margin: 0 40px;
+}
+
+/* banner user/photo */
+
+.banner-user
+{
+	float: left;
+	overflow: hidden;
+	width: 64px;
+	margin: 0 15px 0 0;
+	border: 0;
+	padding: 0;
+	text-align: center;
+}
+
+.banner-user-photo
+{
+	display: block;
+	margin: 0 0 2px 0;
+	border: 0;
+	padding: 0;
+	background-position: center center;
+	background-repeat: no-repeat;
+	text-decoration: none !important;
+}
+
+.banner-user-photo img
+{
+	width: 64px;
+	height: auto;
+	margin: 0;
+	border: 0;
+	padding: 0;
+}

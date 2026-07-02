@@ -1,0 +1,110 @@
+/* content */
+
+.content-nav
+{
+	width: 100%;
+	margin: 20px 10px;
+	font-size: 0.9em;
+	text-align: center;
+}
+
+.content-nav .left {
+	float: left;
+	width: 50%;
+	text-align: left;
+	}
+
+.content-nav .right {
+	float: right;
+	width: 50%;
+	text-align: right;
+	}
+
+.date-header,
+.entry-content
+{
+	position: static;
+	clear: both;
+}
+
+.entry,
+.trackbacks,
+.comments,
+.archive
+{
+	position: static;
+	overflow: hidden;
+	clear: both;
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.entry-content,
+.trackbacks-info,
+.trackback-content,
+.comment-content,
+.comments-open-content,
+.comments-closed
+{
+	clear: both;
+	margin: 5px 10px;
+}
+
+.entry-excerpt,
+.entry-body,
+.entry-more-link,
+.entry-more
+{
+	clear: both;
+}
+
+.entry-body {
+	text-align: justify;
+	line-height:1.3em;
+	}
+.entry-body ul {
+	list-style-image: url(images/bullets.png);
+}
+.entry-footer,
+.trackback-footer,
+.comment-footer,
+.comments-open-footer,
+.archive-content
+{
+	clear: both;
+	margin: 5px 10px 20px 10px;
+}
+
+.comments-open label { display: block; }
+
+#comment-author, #comment-email, #comment-url, #comment-text
+{
+	width: 240px;
+}
+
+#comment-bake-cookie
+{
+	margin-left: 0;
+	vertical-align: middle;
+}
+
+#comment-post
+{
+	font-weight: bold;
+}
+
+img.image-full { width: 100%; }
+
+.image-thumbnail
+{
+	float: left;
+	width: 115px;
+	margin: 0 10px 10px 0;
+}
+
+.image-thumbnail img
+{
+	width: 115px;
+	height: 115px;
+	margin: 0 0 2px 0;
+}

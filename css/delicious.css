@@ -1,0 +1,15 @@
+.delicious-posts { margin: 0; padding: 0; width: 40em; border: 2px solid #ddd;}
+.delicious-posts ul, .delicious-posts li, .delicious-banner { margin: 0; padding: 0; }
+.delicious-post { border-top: 1px solid #eee; padding: 0.5em; font-size: 100% } 
+p.delicious-extended { margin-top:0; padding-left: 1em; width: 37em; font-size: 1em;}
+.delicious-odd { background-color: #f8f8f8; }
+.delicious-even { background-color: #fff; }
+.delicious-odd a { font:1.2em/1.2em; border-bottom: 1px solid #f8f8f8; }
+.delicious-odd a:hover { border-bottom: 1px solid #f8f8f8; }
+.delicious-even a { font:1.2em/1.2em; border-bottom: 1px solid #e5e5e5; }
+.delicious-even a:hover { border-bottom: 1px solid #bbb; }
+.delicious-banner a { font-size: 80% }
+.delicious-posts a { text-decoration: none; color: #00f; display: block; padding: 0.3em; }
+.delicious-post a { color: #00f; }
+a.delicious-tag { display: inline; font:1.2em/1.2em;}
+.delicious-network-badge a { color: #00f; font:1.2em/1.2em; }

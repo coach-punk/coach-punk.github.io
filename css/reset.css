@@ -1,0 +1,62 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td{margin:0;padding:0;}
+table{border-collapse:collapse;border-spacing:0;margin-bottom: 1.5em;}
+fieldset,img{border:0;}
+address,caption,cite,dfn,th,var{font-style:normal;font-weight:normal;}
+ol,ul {list-style:none;}
+caption,th {text-align:left;}
+h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
+q:before,q:after{content:'';}
+abbr,acronym {border:0;}
+
+select, input, textarea {font:99% Helvetica, Arial, "FreeSans", sans-serif;}
+pre, code {font:115% monospace;}
+body * {line-height:1.5em;}
+
+body {
+	font-size: 12px;
+	line-height: 1.5em;
+	margin: 0; padding: 0
+}
+h1 {
+	margin: 0;
+	font-size: 2em;
+	line-height: 0.6em;
+	margin-bottom: 0.6em;
+}
+h2 {
+	margin: 0;
+	font-size: 1.6666666666666667em;
+	line-height: 0.9em;
+	margin-bottom: 0.9em;
+}
+h3 { /* Just roll with it, baby */
+	margin: 0;
+	font-size: 1.5em;
+	line-height: 1em;
+	margin-bottom: 1em;
+} 
+h4 {
+	margin: 0;
+	font-size: 1.3333333333333333em;
+	line-height: 1.125em;
+	margin-bottom: 1.125em;
+}
+h5, lh {
+	margin: 0;
+	font-size: 1.1666666666666667em;
+	line-height: 1.2857142857142858em;
+	margin-bottom: 1.2857142857142858em;
+}
+p, ul, blockquote, pre, td, th, label, span, code, h6 {
+	margin: 0;
+	font-size: 1em;
+	line-height: 1.5em;
+	margin-bottom: 1.5em;
+}
+p.small {
+	margin: 0;
+	font-size: 0.8333333333333334em;
+	line-height: 1.8em;
+	margin-bottom: 1.8em;
+}
+img {border:0;}
