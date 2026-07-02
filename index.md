@@ -16,7 +16,6 @@ title: Home
 	
 	
 	<link rel="stylesheet" href="css/960-reset.css" type="text/css" media="screen" charset="utf-8" />
-<link rel="stylesheet" href="css/960.css" type="text/css" media="screen" charset="utf-8" />
 <link rel="stylesheet" href="css/text.css" type="text/css" media="screen" charset="utf-8" />
 <link rel="shortcut icon" href="favicon.ico" />
 	
@@ -43,7 +42,6 @@ title: Home
 				<p>John currently isn’t writing or blogging or social networking as MVRWC anywhere. That’s because he has better things to do with his time. Like — say — picking lint out of his belly button. He does post the occasional picture or funny link (but not that often, mind you).</p> 
 				<p>Perhaps you were looking for something else? Because the something else is gone now. Sorry about all that.</p> 
 				<p>Time was when I worked hard to make all this internetty stuff. No more. Make your own internet, I’m done here.</p> 
-				<p>Check out my new (old) place on the interwebnet at <a href="http://meadowhill.org/">Meadow Hill</a>.</p>
 	</div><!-- end .grid_12 -->
 	<div class="clear">&nbsp;</div>
 
@@ -71,51 +69,6 @@ title: Home
 <!-- /MEATSPACE -->
 
 
-<!-- SIDEBAR -->
-
-	<div class="grid_6">	
-		<div class="grid_3 alpha">
-		
-
-
-
-
-
-<h4>Site Navigation</h4>
-<p>The <a href="http://MVRWC.com/popular">popular pages</a>:</p>
-<ul>
-	<li><a href="http://MVRWC.com/tutorials">Tutorials</a></li>
-	<li><a href="http://MVRWC.com/viking_kittens">Viking kittens</a></li>
-	<li><a href="http://MVRWC.com/mac_os_x_names">Mac OS X Cats</a></li>
-	<li><a href="http://MVRWC.com/fun_with_keywords">Fun with keywords</a></li>
-</ul>
-<p>Please note that a lot of stuff is gone. If you can’t find it, blame Google.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		</div>
-		<!-- end .grid_3.alpha -->
-		<div class="grid_3 omega">
-		
-
-
-
-
-
-
-
 
 <h4>Daily Trivia</h4>
 <p><script src="random.js" type="text/javascript" charset="utf-8"></script></p>
@@ -127,28 +80,6 @@ title: Home
 
 
 
-
-		</div>
-		<!-- end .grid_3.omega -->
-		<div class="clear">&nbsp;</div>
-	</div><!-- end .grid_6 -->
-<div class="clear">&nbsp;</div>
-
-
-<!-- /SIDEBAR -->
-
-
-<!-- FOOTER -->
-
-	<?php 
-	require '../inc/footer.php';
-	?>
-	
-	
-	
-	
-	
-	
 	
 	
 	<div class="grid_12">
@@ -169,12 +100,4 @@ title: Home
 <div class="clear">&nbsp;</div>
 </div><!-- end container_12 -->
 
-<div><!-- the google  --> 
-	
-</div><!-- googlian overlords -->
-
 </body>
-</html>
-
-
-<img style="float:left; margin-right:4px" src="images/about/manly.jpg" alt="photo of " class="photo"/>
