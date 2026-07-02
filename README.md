@@ -21,9 +21,3 @@ Welcome to my GitHub Pages profile. I build things, break things, fix things, an
 ## 📬 Connect
 You can find me on GitHub or reach out through the usual channels.
 
----
-
-## 📝 Latest Posts
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%B %d, %Y" }}
-{% endfor %}
