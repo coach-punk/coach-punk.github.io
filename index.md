@@ -29,16 +29,7 @@ title: Home
 </head>
 
 <body>
-<div class="banner">
-	<ul>
-		<li><a href="http://MVRWC.com/">MVRWC.com</a></li>
-		<li><a href="http://MVRWC.com/about">About</a></li>
-		<li><a href="http://MVRWC.com/popular">Popular</a></li>
-		<li><a href="http://MVRWC.com/viking_kittens">Viking kittens</a></li>
-		<li><a href="http://MVRWC.com/mac_os_x_names">Mac OS X Cats</a></li>
-		<li><a href="http://MVRWC.com/contact">Contact</a></li>
-	</ul>
-</div>	<!-- banner -->
+
 	
 <div class="container_12">
 	<p><img src="mountain.jpg" width="960" height="308" alt="Mountain" /></p>
