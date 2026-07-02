@@ -31,7 +31,7 @@ title: Home
 
 	
 <div class="container_12">
-	<p><img src="mountain.jpg" width="960" height="308" alt="Mountain" /></p>
+	<p><img src="mountain.jpg" max-width="960" max-height="308" alt="Mountain" /></p>
 	<div class="grid_12">
 		<h1>[MVRWC]</h1> 
 		<p>John Stansbury <del>is</del> <strong>was</strong> a former Internet mogul set on linking to every page on the internet — the interesting ones, at least.</p> 
