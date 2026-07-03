@@ -64,6 +64,17 @@ title: Home
 		<p>Unless, of course, somebody wants to borrow me some grandeur.</p> 
 		<p>Anybody?</p> 
 		<div class="clear">&nbsp;</div>
+		
+
+
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%B %d, %Y" }}
+{% endfor %}
+
+
+
+
 	</div><!-- end .grid_6 -->
 
 <!-- /MEATSPACE -->
