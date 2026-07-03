@@ -69,7 +69,7 @@ title: Home
 
 
 {% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%B %d, %Y" }}
+ <a href="{{ post.url }}">{{ post.title }}</a> <a href="#" alt="{{ post.date | date: "%B %d, %Y" }}" >#</a>
 {% endfor %}
 
 
