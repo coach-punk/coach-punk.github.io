@@ -1,8 +1,3 @@
----
-layout: default
-title: John Stansbury
----
-
 # John Stansbury
 
 Welcome to my GitHub Pages profile. I build things, break things, fix things, and occasionally make them look good. This site is my hub for projects, experiments, writing, and whatever else I’m tinkering with.
