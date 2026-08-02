@@ -9,6 +9,10 @@ content:
         type: string
       - name: body
         type: rich-text
+      - name: slug
+        type: string
+          options:
+          maxlength: 120
   - name: pages
     label: Pages
     type: collection
