@@ -1,6 +1,10 @@
 ---
 title: You are here
-Tags: []
+Tags:
+  - cats
+  - moose
+  - squirrel
+  - markdown
 ---
 Hello world.
 
