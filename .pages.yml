@@ -1,0 +1,20 @@
+media: media
+content:
+  - name: posts
+    label: Posts
+    type: collection
+    path: _posts
+    fields:
+      - name: title
+        type: string
+      - name: body
+        type: rich-text
+  - name: pages
+    label: Pages
+    type: collection
+    path: docs
+    fields:
+      - name: title
+        type: string
+      - name: body
+        type: rich-text
