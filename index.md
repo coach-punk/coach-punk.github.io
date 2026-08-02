@@ -31,11 +31,11 @@ title: Home
 
 	
 <div class="container_12">
-	<p><img src="mountain.jpg" max-width="960" max-height="308" alt="Mountain" /></p>
+	<p><img src="media/mountain.jpg" max-width="960" max-height="308" alt="Mountain" /></p>
 	<div class="grid_12">
 		<h1>[MVRWC]</h1> 
 		<p>John Stansbury <del>is</del> <strong>was</strong> a former Internet mogul set on linking to every page on the internet — the interesting ones, at least.</p> 
-				<div style="float:left;text-align:center;width:210px;margin-right:37px;margin-left:-5px;"><img src="images/about/manly.jpg" alt="Teh Hawt" /><small style="text-align:center;">Yes, I am that mean</small></div> 
+				<div style="float:left;text-align:center;width:210px;margin-right:37px;margin-left:-5px;"><img src="media/manly.jpg" alt="Teh Hawt" /><small style="text-align:center;">Yes, I am that mean</small></div> 
 				<p>This is the guy who made forums fun and popular. He’s actually very sorry about that. Had to do something while the internet stocks were crashing back in the 90s. At least he had nothing to do with Digg, so maybe that evens things out?</p> 
 				<h2>MVRWC.com: The Home of fun™</h2> 
 				<p>Or, where we used to keep the fun, before we stopped making it. And by ‘we’ I mean ‘me’ — <em>ya ingrates</em>. So now it’s just a bunch of ‘where stuff used to be’.</p> 
