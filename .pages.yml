@@ -12,7 +12,7 @@ content:
   - name: pages
     label: Pages
     type: collection
-    path: docs
+    path: _pages
     fields:
       - name: title
         type: string
