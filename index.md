@@ -21,6 +21,8 @@ Perhaps you were looking for something else? Because the something else is gone 
 
 Time was when I worked hard to make all this internetty stuff. No more. Make your own internet, I’m done here.
 
+I mean, not exactly _here_ you know. I mean, like, you know, Digg. I was not responsible for that, lemme say again.
+
 ### Less lazy talk, more MVRWC!
 
 The website and the person are connected parts of the whole. But the website looks better. So far, this is just the journal of how to make a website look like a website. That&#8217;s mighty fine with me.
