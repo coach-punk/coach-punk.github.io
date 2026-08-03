@@ -5,8 +5,6 @@ title: My Vast, Right Wing Conspiracy
 
 <img src="media/mountain.jpg" width="960" height="308" alt="Me in front of the Mountain" />
 
-# [MVRWC]
-
 John Stansbury <del>is</del> <strong>was</strong> a former Internet mogul set on linking to every page on the internet — the interesting ones, at least.
 
 <div style="float:left;text-align:center;width:210px;margin-right:37px;margin-left:-5px;"><img src="media/manly.jpg" alt="Teh Hawt" /><small style="text-align:center;">Yes, I am that mean</small></div>
