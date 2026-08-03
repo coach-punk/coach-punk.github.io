@@ -53,6 +53,8 @@ _Anybody?_
 
 #### Latest from the blorg
 
+Sometimes I write things. You read them here.
+
 {% for post in site.posts %}
 
  <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
