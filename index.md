@@ -53,7 +53,7 @@ _Anybody?_
 
 #### Latest from the blorg
 
-Sometimes I write things. You read them here.
+Sometimes I write things. You can read them here.
 
 {% for post in site.posts %}
 
