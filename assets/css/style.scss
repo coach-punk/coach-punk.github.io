@@ -2,3 +2,37 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+/**
+ * Vertical rhythm by Syncope
+ * http://nowodzinski.pl/syncope
+ */
+
+html, body {
+	font: 16px/1.6 ;
+}
+
+$v-rhythm-levels: (
+	4: ( 2.44em, 1.33em, 0.333em, 0.333em ),
+	3: ( 1.94em, 1.68em, 0.484em, 0.355em ),
+	2: ( 1.56em, 1.04em, 0.200em, 0.840em ),
+	1: ( 1.25em, 1.30em, 0.300em, 1.00em ),
+	0: ( 1.00em, 1.63em, 0.500em, 1.13em ),
+);
+
+/**
+ * Sets vertical–rhythm for the given level.
+ * Usage:
+ *
+ * 	h1 {
+ * 		@include v-rhythm( 4 );
+ * 	}
+ */
+@mixin v-rhythm( $level ) {
+	$rhythm: map-get( $v-rhythm-levels, $level );
+
+	font-size: nth( $rhythm, 1 );
+	line-height: nth( $rhythm, 2 );
+	padding-top: nth( $rhythm, 3 );
+	margin-bottom: nth( $rhythm, 4 );
+}
