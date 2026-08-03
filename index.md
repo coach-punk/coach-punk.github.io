@@ -35,7 +35,7 @@ Someday I&#8217;m going to stop doing stuff, and get around to putting in all my
 
 Accomplishments, accomplishments&#8230;I did finish junior high in less than 8 years, that&#8217;s something. And I&#8217;ve never drowned any kittens that I know of. And I&#8217;ve only once set fire to a school full of children. All that&#8217;s accomplishments-y, right?
 
-Okay, <em>now</em> I should stop. I blame my liberal upbringing. Yeah, that&#8217;s it.
+Okay, <em>now</em> I should stop. I blame my liberal upbringing. Yeah, that&#8217;s it smile emoji.
 
 ### You seem to talk about links a lot
 
