@@ -2,7 +2,8 @@
 layout: default
 title: My Vast, Right Wing Conspiracy
 ---
-<img src="media/mountain.jpg" max-width="960" max-height="308" alt="Mountain" />
+
+<img src="media/mountain.jpg" width="960" height="308" alt="Mountain" />
 
 # [MVRWC]
 
