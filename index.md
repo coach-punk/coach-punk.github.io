@@ -29,7 +29,7 @@ Think of this as a journey, a trial by fire, a coming-of-age flick. Or the other
 
 Just think of it. Or not. I&#8217;m all about value, and not giving you anything you didn&#8217;t already want. Or something&#8230;did any of you understand that? Can you explain it to me? Seriously, it made no sense. Actually, that&#8217;s about the best thing I could write on my About page.
 
-###Accomplishments
+### Accomplishments
 
 Someday I&#8217;m going to stop doing stuff, and get around to putting in all my accomplishments over the years. That should take up another paragraph. Or two. I should stop now.
 
