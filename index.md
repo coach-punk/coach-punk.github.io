@@ -61,4 +61,4 @@ title: My Vast, Right Wing Conspiracy
 <p><script src="media/random.js" type="text/javascript" charset="utf-8"></script></p>
 
 
-<small>&copy; <?php echo date("Y"); ?> John Stansbury. All rights reserved. Please don‘t steal my stuff.</small>
+<small>&copy; 2026 John Stansbury. All rights reserved. Please don‘t steal my stuff.</small>
