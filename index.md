@@ -44,18 +44,4 @@ title: My Vast, Right Wing Conspiracy
 
 
 
-<p><small>&copy; <?php echo date("Y"); ?> John Stansbury. All rights reserved.</small></p>
-
-
-
-
-
-
-
-
-<!-- /FOOTER -->
-
-<div class="clear">&nbsp;</div>
-</div><!-- end container_12 -->
-
-</body>
+<p><small>&copy; <?php echo date("Y"); ?> John Stansbury. All rights reserved. Please don‘t steal my stuff.</small></p>
