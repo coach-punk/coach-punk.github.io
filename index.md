@@ -5,7 +5,7 @@ title: My Vast, Right Wing Conspiracy
 
 <img src="media/mountain.jpg" width="960" height="308" alt="Me in front of the Mountain" />
 
-John Stansbury <del>is</del> <strong>was</strong> a former Internet mogul set on linking to every page on the internet — the interesting ones, at least.
+John Stansbury <del>is</del> <strong>was</strong> a former Internet mogul set on linking to every page on the internet — the interesting ones, at least. Now with all this The AIs I could never reach everything because there is infinity amount of typing monkeys. It made sense 20 years ago.
 
 <div style="float:left;text-align:center;width:210px;margin-right:37px;margin-left:-5px;"><img src="media/manly.jpg" alt="Teh Hawt" /><small style="text-align:center;">Yes, I am that mean</small></div>
 
@@ -35,7 +35,7 @@ Someday I&#8217;m going to stop doing stuff, and get around to putting in all my
 
 Accomplishments, accomplishments&#8230;I did finish junior high in less than 8 years, that&#8217;s something. And I&#8217;ve never drowned any kittens that I know of. And I&#8217;ve only once set fire to a school full of children. All that&#8217;s accomplishments-y, right?
 
-Okay, <em>now</em> I should stop. I blame my liberal upbringing. Yeah, that&#8217;s it smile emoji.
+Okay, <em>now</em> I should stop. I blame my liberal upbringing. Yeah, that&#8217;s it *insert smile emoji*.
 
 ### You seem to talk about links a lot
 
