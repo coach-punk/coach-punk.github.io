@@ -66,4 +66,5 @@ _Anybody?_
 <script src="media/random.js" type="text/javascript" charset="utf-8"></script>
 
 ---
+
 <small>&copy; 2026 John Stansbury. All rights reserved. Please don‘t steal my stuff.</small>
