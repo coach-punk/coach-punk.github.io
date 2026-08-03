@@ -3,7 +3,7 @@ layout: default
 title: My Vast, Right Wing Conspiracy
 ---
 
-<img src="media/mountain.jpg" width="960" height="308" alt="Mountain" />
+<img src="media/mountain.jpg" width="960" height="308" alt="Me in front of the Mountain" />
 
 # [MVRWC]
 
@@ -22,7 +22,6 @@ John currently isn’t writing or blogging or social networking as MVRWC anywher
 Perhaps you were looking for something else? Because the something else is gone now. Sorry about all that.
 
 Time was when I worked hard to make all this internetty stuff. No more. Make your own internet, I’m done here.
-
 
 ### Less lazy talk, more MVRWC!
 
