@@ -3,17 +3,17 @@ url: https://coach-punk.github.io #yoururl
 title: [MVRWC]
 description: Simple and minimalistic conspiracy theorist.
 twitter:
-  username: @2oft #yourusername
+  username: 2oft #yourusername
   card: summary
   creator: John #yourusername
 author:
-  twitter: @2oft #yourusername
+  twitter: 2oft #yourusername
   name: #yourusername
   avatar:
   email: #youremail
   url: #yoururl
 permalink: pretty
-paginate: 5
+# paginate: 5
 baseurl: ""
 
 highlighter: none
@@ -31,12 +31,13 @@ sass:
 
 theme: null
 plugins:
+  - jekyll-minifier
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-archives
-  - jekyll-tagging
   - jekyll-paginate-v2
+  - jekyll-admin
 
 collections:
   pages:
