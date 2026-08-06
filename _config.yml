@@ -35,6 +35,8 @@ plugins:
   - jekyll-archives
   - jekyll-paginate-v2
   - jekyll-admin
+  - liquid_reading_time
+  - liquid
 collections:
   pages:
     output: true

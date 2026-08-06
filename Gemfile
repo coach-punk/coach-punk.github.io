@@ -10,4 +10,6 @@ gem "jekyll-minifier"
 gem "jekyll-sitemap"
 gem "jekyll-seo-tag"
 gem "jekyll-feed"
-gem  "jekyll-admin"
+gem	"jekyll-admin"
+gem 'liquid'
+gem "liquid_reading_time"
