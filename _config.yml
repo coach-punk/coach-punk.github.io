@@ -1,34 +1,31 @@
-site: My Vast, Right-Wing Conspiracy
-url: https://coach-punk.github.io #yoururl
-title: [MVRWC]
+site: 'My Vast, Right-Wing Conspiracy'
+url: 'https://coach-punk.github.io'
+title:
+  - MVRWC
 description: Simple and minimalistic conspiracy theorist.
 twitter:
-  username: 2oft #yourusername
-  card: summary
-  creator: John #yourusername
+  username: 2oft
+  card: The most amazing Twitter ever
+  creator: John
 author:
-  twitter: 2oft #yourusername
-  name: #yourusername
-  avatar:
-  email: #youremail
-  url: #yoururl
+  twitter: 2oft
+  name: John Stansbury
+  avatar: null
+  email: null
+  url: 'https://mvrwc.com'
 permalink: pretty
-# paginate: 5
-baseurl: ""
-
+baseurl: ''
 highlighter: none
-
 exclude:
   - .jekyll-cache
-
 compress_html:
   clippings: all
-  comments: ["<!-- ", " -->"]
-
+  comments:
+    - '<!-- '
+    - ' -->'
 sass:
-  sass_dir:          _sass
-  style:            :compressed
-
+  sass_dir: _sass
+  style: ':compressed'
 theme: null
 plugins:
   - jekyll-minifier
@@ -38,30 +35,25 @@ plugins:
   - jekyll-archives
   - jekyll-paginate-v2
   - jekyll-admin
-
 collections:
   pages:
     output: true
-    permalink: /:name
+    permalink: '/:name'
   posts:
     output: true
-    permalink: /:year/:month/:day/:slug
-
+    permalink: '/:year/:month/:day/:slug'
 defaults:
-  -
-    scope:
-      path: ""
+  - scope:
+      path: ''
     values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "pages"
+      layout: default
+  - scope:
+      path: ''
+      type: pages
     values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "posts"
+      layout: page
+  - scope:
+      path: ''
+      type: posts
     values:
-      layout: "post"
+      layout: post
