@@ -1,13 +1,13 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-group :jekyll_plugins do
-  gem 'jekyll'
-  gem 'jekyll-feed'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-redirect-from'
-  gem 'jemoji'
-  gem 'webrick', '~> 1.8'
-end
+gem "jekyll", "~> 4.4"
+gem "webrick"
 
-gem 'github-pages'
-gem 'connection_pool', '2.5.0'
+# Add ANY plugins you want:
+gem "jekyll-archives"
+gem "jekyll-tagging"
+gem "jekyll-paginate-v2"
+gem "jekyll-minifier"
+gem "jekyll-sitemap"
+gem "jekyll-seo-tag"
+gem "jekyll-feed"
