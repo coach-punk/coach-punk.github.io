@@ -4,13 +4,26 @@
  <title>MVRWC</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2026-08-06T21:10:26-04:00</updated>
+ <updated>2026-08-06T21:27:07-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>John Stansbury</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>World Peace</title>
+   <link href="http://localhost:4000/2026/08/06/world-peace"/>
+   <updated>2026-08-06T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2026/08/06/world-peace</id>
+   <content type="html">&lt;p&gt;Why is it that nobody ever things about me?&lt;/p&gt;
+
+&lt;p&gt;Also, peace? Overrated.&lt;/p&gt;
+
+&lt;p&gt;The end.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Difference between font formats</title>

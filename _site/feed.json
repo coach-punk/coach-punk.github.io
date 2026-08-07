@@ -17,6 +17,30 @@
 "items": [
     
         {
+            "id": "http://localhost:4000/2026/08/06/world-peace",
+            "title": "World Peace",
+            "summary": null,
+            "content_text": "Why is it that nobody ever things about me?Also, peace? Overrated.The end.",
+            "content_html": "<p>Why is it that nobody ever things about me?</p><p>Also, peace? Overrated.</p><p>The end.</p>",
+            "url": "http://localhost:4000/2026/08/06/world-peace",
+            
+            
+            
+            
+            
+            "date_published": "2026-08-06T00:00:00-04:00",
+            "date_modified": "2026-08-06T00:00:00-04:00",
+            
+                "author":  {
+                "name": "John Stansbury",
+                "url": "https://mvrwc.com",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "http://localhost:4000/2019/08/31/difference-between-font-formats",
             "title": "Difference between font formats",
             "summary": "What is the difference between various font formats?",
